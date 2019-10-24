@@ -1,7 +1,7 @@
 # oceanleonai.github.io
 this is for my own blog
 
-click follow to more~
+click follow for more~
 
-[oceanleonai.github.io](oceanleonai.github.io "With a Title")
+[oceanleonai.github.io](oceanleonai.github.io)
 
