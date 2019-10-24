@@ -3,5 +3,5 @@ this is for my own blog
 
 click follow for more~
 
-[oceanleonai.github.io](oceanleonai.github.io?_blank)
+<a href="oceanleonai.github.io" target="blank"></a>
 
