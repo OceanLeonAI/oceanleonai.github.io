@@ -3,5 +3,5 @@ this is for my own blog
 
 click follow for more~
 
-oceanleonai.github.io
+http://oceanleonai.github.io
 
